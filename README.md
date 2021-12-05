@@ -1,2 +1,2 @@
 # Knapsack
-ini program Knapsack Problem berbasi Java JFrame
+ini program Knapsack Problem berbasi Java
